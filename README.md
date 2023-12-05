@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dshreegadi64979" target="blank"><img src="https://img.shields.io/twitter/follow/dshreegadi64979?logo=twitter&style=for-the-badge" alt="dshreegadi64979" /></a> </p>
 
-- 🔭 I’m currently working on **Unit Converter**
+<!--- - 🔭 I’m currently working on **Unit Converter** -->
 
 - 💬 Ask me about **ReactJS, NodeJS, Angular, Docker, Microservices**
 

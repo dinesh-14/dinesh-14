@@ -7,7 +7,7 @@
 
 <!--- - 🔭 I’m currently working on **Unit Converter** -->
 
-- 💬 Ask me about **ReactJS, NodeJS, Angular, Docker, Microservices**
+- 💬 Ask me about **ReactJS, NodeJS, VueJs, Angular, Docker, Microservices**
 
 ### Blogs posts
 

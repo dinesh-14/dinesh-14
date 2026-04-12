@@ -164,10 +164,6 @@ A real-time LME + NALCO pricing dashboard with AI-generated procurement signals 
   <img src="https://img.shields.io/badge/Portfolio-See_my_work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-*Open to freelance · consulting · AI-augmented product builds*
-
 </div>
 
 <br/>
@@ -177,7 +173,4 @@ A real-time LME + NALCO pricing dashboard with AI-generated procurement signals 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<sub>Built with ❤️ in Pune · Powered by Claude + Cursor + ☕</sub>
 </div>

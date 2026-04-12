@@ -36,8 +36,7 @@ currently_building:
 
 ai_stack:
   models    : [Claude Sonnet, GPT-4o]
-  ide       : Cursor Pro
-  local_llm : Ollama + qwen2.5-coder:14b (MacBook M4 Pro)
+  ide       : VS Code, Cursor, Antigravity 
 
 dev_stack:
   frontend  : [React, TypeScript, Next.js, Tailwind CSS, Recharts]

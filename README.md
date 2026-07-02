@@ -92,12 +92,6 @@ A real-time LME + NALCO pricing dashboard with AI-generated procurement signals 
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-14&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6e7681" alt="GitHub Streak"/>
-
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->

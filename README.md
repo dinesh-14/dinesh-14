@@ -76,21 +76,6 @@ A real-time LME + NALCO pricing dashboard with AI-generated procurement signals 
 ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinesh-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" alt="Dinesh's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-</div>
 
 <br/>
 
